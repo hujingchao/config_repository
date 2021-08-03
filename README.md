@@ -1,2 +1,2 @@
 # config_repository
-springcloud config
+springcloud config 初始化
